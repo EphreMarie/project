@@ -1,0 +1,28 @@
+/*about.css*/
+    .titles {
+            padding-left: 40%;
+            font-family: 'Courier';
+        }
+        #myImage {
+            float: left;
+            height: 350px;
+            width: 350px;
+            margin-right: 15px;
+            margin-left: 15px;
+        }
+        .info {
+            font-size: 20px;
+            margin-right: 15px;
+            margin-left: 15px;
+            text-align: justify;
+                }
+        #name {
+            font-size: 25px;
+            margin-right: 600px;
+            margin-left: 400px;
+            font-family: 'Candara';
+        }
+        .button {
+            float: left;
+            margin-left: 10px;
+        }

@@ -1,0 +1,25 @@
+/*more.css*/
+        .titles {
+            padding-left: 37%;
+            font-family: 'Courier';
+        }
+        #cebupic {
+            float: right;
+            margin-right: 5px;
+            margin-left: 20px;
+        }
+        .paragraphs {
+            text-align: justify;
+            margin-left: 10px;
+            font-size: 17px;
+            font-family: "Muli" serif;
+        }
+        .button {
+            float: left;
+            margin-left: 10px;
+        }
+        #back {
+         text-align: center;
+         color: black;
+         font-family: 'Courier';
+        }
